@@ -1,0 +1,172 @@
+body{
+	background: url(rosebleu.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+h1,h2{
+	font-family: 'Parisienne', cursive;
+}
+
+#page{
+	margin-left: auto;
+	margin-right: auto;
+	width: 66%;
+	height: auto; 
+}
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+#profil{
+	background-color: rgba(255, 238, 234, 0.8);
+	color: #FF7F63;
+	width: 100%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+#titre_pres{
+	font-size:1.1vw;
+}
+
+p{
+	font-size:1vw;
+}
+
+.XPp{
+	text-align:right;
+}
+
+.XPp, .XPimp{
+	padding-bottom:1vw;
+}
+
+.titre_para{
+	font-weight:bold;
+}
+
+.centrertexte{
+	text-align: center;
+}
+
+nav{
+	display: inline-block;
+	width: 100%;
+}
+
+header{
+	background-color:rgba(255, 127, 99, 1);
+	margin-top: 1em;
+}
+.col-md-3{
+	display:flex;
+	align-items: center;
+}
+
+#Expertises, #projets{
+	background:rgba(255,255,255,0.8);
+	margin:0;
+	padding:1vw 3vw;
+}
+
+#Expertises img{
+	margin:0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+#Expertises p{
+	line-height:2.2vw;
+	display: flex;
+	align-items: center;
+}
+
+#experiences, #education{	
+	background:rgba(255, 238, 234, 0.8);
+	margin:0;
+	padding:1vw 3vw;
+}
+
+#experiences p{	
+	line-height:1.6vw;
+}
+
+#projets p {
+	padding-bottom:2vw;
+}
+
+#centrer{
+	text-align: center;
+}
+
+h3{
+	font-size:1.1vw;
+	color:#ff7f63;
+	font-weight:bold;
+}
+
+.div-categoryContainer{
+    padding: 10px;
+}
+ 
+.paragraph-right{
+  margin-top :2.5%;
+  color: white;
+}
+
+#photomoi{
+	width:90%;
+}
+
+h1{
+	margin-bottom: 1em;
+	font-size:2.5vw;
+}
+
+h2{
+	margin-bottom: 1em;
+	margin-top: 1em;
+	text-align:center;
+	font-size:2vw;
+	color:#ff7f63;
+	font-weight:bold;
+}
+
+footer{
+	width: 100%;
+	background-color:#151515;
+	color: white;
+	text-align:center;
+	padding:0.5vw;
+
+}
+
+footer h4{
+	font-size:1.1vw;
+	font-weight:bold;
+}
+footer p{
+	font-size:0.9vw;
+}
+
+footer span, footer a{color:white;}
+footer a:hover{color:#ff7f63;}
+
+@media screen and (max-width: 767px){
+	#page{width:100%;}
+	.row{margin:0;}
+	h2 img{display:none;}
+	h1{font-size:12vw;text-align:center;}
+	#titre_pres{font-size:5vw;}
+	p{font-size:3vw;}
+	#Expertises p{line-height:4vw;}
+	#experiences p{line-height:3.5vw;}
+	h2{font-size:7vw;margin-bottom:1vw;margin-top:1vw!important;}
+	h3{font-size:3vw;margin-bottom:1vw;margin-top:1vw!important;}
+	footer h4{font-size:3vw;}
+	footer p{font-size:2.5vw;}
+}
+	
+}
