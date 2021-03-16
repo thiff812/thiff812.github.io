@@ -29,6 +29,10 @@ h1,h2{
 #titre_pres{
 	font-size:1.1vw;
 }
+h1
+{
+	color:black;
+}
 
 p{
 	font-size:12px;
