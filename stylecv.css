@@ -6,7 +6,7 @@ h1,h2{
 	font-family: 'Parisienne', cursive;
 	color:black;
 }
-p#titre_pres, span.titre_para
+#titre_pres
 {
 	color:black;
 }
