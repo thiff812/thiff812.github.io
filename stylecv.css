@@ -32,7 +32,7 @@ h1,h2{
 	padding-bottom: 1em;
 }
 #titre_pres{
-	font-size:1.1vw;
+	font-size:12px;
 }
 h1
 {
@@ -111,7 +111,7 @@ header{
 }
 
 h3{
-	font-size:1.1vw;
+	font-size:12px;
 	color:#ff7f63;
 	font-weight:bold;
 }
