@@ -171,13 +171,13 @@ footer a:hover{color:#ff7f63;}
 	h2 img{display:none;}
 	h1{font-size:12vw;text-align:center;}
 	#titre_pres{font-size:5vw;}
-	p{font-size:3vw;}
+	p{font-size:5vw;}
 	#Expertises p{line-height:4vw;}
 	#experiences p{line-height:3.5vw;}
 	h2{font-size:7vw;margin-bottom:1vw;margin-top:1vw!important;}
-	h3{font-size:3vw;margin-bottom:1vw;margin-top:1vw!important;}
+	h3{font-size:5vw;margin-bottom:1vw;margin-top:1vw!important;}
 	footer h4{font-size:3vw;}
-	footer p{font-size:2.5vw;}
+	footer p{font-size:5vw;}
 }
 	
 }
