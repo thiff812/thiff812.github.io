@@ -31,7 +31,7 @@ h1,h2{
 }
 
 p{
-	font-size:1vw;
+	font-size:12px;
 }
 
 .XPp{
@@ -140,6 +140,7 @@ footer{
 	color: white;
 	text-align:center;
 	padding:0.5vw;
+	margin: 0;
 
 }
 
@@ -149,6 +150,7 @@ footer h4{
 }
 footer p{
 	font-size:0.9vw;
+	
 }
 
 footer span, footer a{color:white;}
